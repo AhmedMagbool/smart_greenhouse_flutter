@@ -1,1 +1,0 @@
-# smart_greenhouse_flutter
